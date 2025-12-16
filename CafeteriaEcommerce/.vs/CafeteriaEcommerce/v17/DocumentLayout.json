@@ -1,0 +1,1251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\prototype\\icafeprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\prototype\\icafeprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\prototype\\cafebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\prototype\\cafebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\iterator\\iiteratorcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\iterator\\iiteratorcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\iterator\\icoleccioncafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\iterator\\icoleccioncafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\iterator\\catalogoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\iterator\\catalogoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\factory\\cafepolvocreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\factory\\cafepolvocreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\factory\\cafecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\factory\\cafecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\catalogo\\factory\\cafegranocreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\catalogo\\factory\\cafegranocreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\composite\\productocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\composite\\productocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\composite\\icarritocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\composite\\icarritocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\composite\\combocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\composite\\combocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\command\\quitarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\command\\quitarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\command\\agregarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\command\\agregarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\ticket\\builder\\ticketdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\ticket\\builder\\ticketdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\ticket\\builder\\ticketbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\ticket\\builder\\ticketbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\ticket\\builder\\iticketbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\ticket\\builder\\iticketbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\promociones\\promocionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\promociones\\promocionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\promociones\\decorator\\preciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\promociones\\decorator\\preciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\promociones\\decorator\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\promociones\\decorator\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\promociones\\decorator\\cupondescuentodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\promociones\\decorator\\cupondescuentodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pedidos\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pedidos\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pedidos\\memento\\pedidomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pedidos\\memento\\pedidomemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pedidos\\memento\\historialpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pedidos\\memento\\historialpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pedidos\\facade\\pedidofacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pedidos\\facade\\pedidofacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\strategy\\pagotarjetastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\strategy\\pagotarjetastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\strategy\\pagopaypalstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\strategy\\pagopaypalstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\strategy\\ipagostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\strategy\\ipagostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\adapter\\pagoexternoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\adapter\\pagoexternoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\adapter\\serviciopagoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\adapter\\serviciopagoexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\abstractfactory\\pagotarjetafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\abstractfactory\\pagotarjetafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\abstractfactory\\pagopaypalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\abstractfactory\\pagopaypalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\bridge\\entregadoestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\bridge\\entregadoestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\bridge\\enviadoestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\bridge\\enviadoestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\bridge\\ienvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\bridge\\ienvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\bridge\\iestadoenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\bridge\\iestadoenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\direccionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\direccionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\inventario\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\inventario\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\inventario\\productoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\inventario\\productoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\notificaciones\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\notificaciones\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\notificaciones\\observer\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\notificaciones\\observer\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\notificaciones\\observer\\usuarioobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\notificaciones\\observer\\usuarioobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\notificaciones\\notificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\notificaciones\\notificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\abstractfactory\\ipagofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\abstractfactory\\ipagofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\usuarios\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\usuarios\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\pagos\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\pagos\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\carrito\\command\\carritoinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\carrito\\command\\carritoinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\envio\\bridge\\enviodomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\envio\\bridge\\enviodomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\database\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\database\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\database\\productos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\database\\productos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\database\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\database\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\database\\envios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\database\\envios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\data\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\data\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\data\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\data\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\data\\repositoriopedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\data\\repositoriopedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\data\\repositorioenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\data\\repositorioenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\core\\utilidades\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\core\\utilidades\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\core\\seguridad\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\core\\seguridad\\iacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\core\\seguridad\\authsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\core\\seguridad\\authsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|c:\\users\\crjos\\source\\repos\\cafeteriaecommerce\\cafeteriaecommerce\\core\\seguridad\\accesoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664A6DF0-1D89-4545-929D-7EB242D95AC7}|CafeteriaEcommerce\\CafeteriaEcommerce.csproj|solutionrelative:cafeteriaecommerce\\core\\seguridad\\accesoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Program.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Program.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAuwNMBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:49:35.99Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIteratorCafe.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\IIteratorCafe.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Iterator\\IIteratorCafe.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\IIteratorCafe.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Iterator\\IIteratorCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:10:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeBase.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Prototype\\CafeBase.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Prototype\\CafeBase.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Prototype\\CafeBase.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Prototype\\CafeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:09:52.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogoService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\CatalogoService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\CatalogoService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\CatalogoService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\CatalogoService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:13:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IColeccionCafe.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\IColeccionCafe.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Iterator\\IColeccionCafe.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\IColeccionCafe.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Iterator\\IColeccionCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:11:03.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICafePrototype.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Prototype\\ICafePrototype.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Prototype\\ICafePrototype.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Prototype\\ICafePrototype.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Prototype\\ICafePrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:09:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Cafe.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Cafe.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Cafe.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Cafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:03:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogoIterator.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\CatalogoIterator.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Iterator\\CatalogoIterator.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Iterator\\CatalogoIterator.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Iterator\\CatalogoIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:12:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CafePolvoCreator.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafePolvoCreator.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Factory\\CafePolvoCreator.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafePolvoCreator.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Factory\\CafePolvoCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:07:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CafeCreator.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafeCreator.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Factory\\CafeCreator.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafeCreator.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Factory\\CafeCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:06:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CafeGranoCreator.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafeGranoCreator.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Catalogo\\Factory\\CafeGranoCreator.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Catalogo\\Factory\\CafeGranoCreator.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Catalogo\\Factory\\CafeGranoCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:08:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\CarritoService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\CarritoService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\CarritoService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\CarritoService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:32:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ProductoCarrito.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Composite\\ProductoCarrito.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ProductoCarrito.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Composite\\ProductoCarrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:26:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICarritoComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ICarritoComponent.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Composite\\ICarritoComponent.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ICarritoComponent.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Composite\\ICarritoComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:25:31.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComboCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ComboCarrito.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Composite\\ComboCarrito.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Composite\\ComboCarrito.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Composite\\ComboCarrito.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:28:20.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuitarProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\QuitarProductoCommand.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Command\\QuitarProductoCommand.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\QuitarProductoCommand.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Command\\QuitarProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:30:54.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\ICommand.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:29:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgregarProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\AgregarProductoCommand.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Command\\AgregarProductoCommand.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\AgregarProductoCommand.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Command\\AgregarProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:30:21.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketDirector.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\TicketDirector.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Ticket\\Builder\\TicketDirector.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\TicketDirector.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Ticket\\Builder\\TicketDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:14:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\TicketBuilder.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Ticket\\Builder\\TicketBuilder.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\TicketBuilder.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Ticket\\Builder\\TicketBuilder.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:14:18.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITicketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\ITicketBuilder.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Ticket\\Builder\\ITicketBuilder.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Builder\\ITicketBuilder.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Ticket\\Builder\\ITicketBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:13:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PromocionService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\PromocionService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Promociones\\PromocionService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\PromocionService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Promociones\\PromocionService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:20:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrecioBase.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\PrecioBase.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Promociones\\Decorator\\PrecioBase.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\PrecioBase.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Promociones\\Decorator\\PrecioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:04:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\IPrecio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Promociones\\Decorator\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\IPrecio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Promociones\\Decorator\\IPrecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:04:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CuponDescuentoDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\CuponDescuentoDecorator.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Promociones\\Decorator\\CuponDescuentoDecorator.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Promociones\\Decorator\\CuponDescuentoDecorator.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Promociones\\Decorator\\CuponDescuentoDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:21:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Pedido.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pedidos\\Pedido.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Pedido.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pedidos\\Pedido.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:35:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\PedidoService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pedidos\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\PedidoService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pedidos\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:37:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidoMemento.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Memento\\PedidoMemento.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pedidos\\Memento\\PedidoMemento.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Memento\\PedidoMemento.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pedidos\\Memento\\PedidoMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:36:08.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HistorialPedido.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Memento\\HistorialPedido.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pedidos\\Memento\\HistorialPedido.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Memento\\HistorialPedido.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pedidos\\Memento\\HistorialPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:36:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PedidoFacade.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Facade\\PedidoFacade.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pedidos\\Facade\\PedidoFacade.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pedidos\\Facade\\PedidoFacade.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pedidos\\Facade\\PedidoFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:37:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagoTarjetaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\PagoTarjetaStrategy.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\Strategy\\PagoTarjetaStrategy.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\PagoTarjetaStrategy.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\Strategy\\PagoTarjetaStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:06:04.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PagoPaypalStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\PagoPaypalStrategy.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\Strategy\\PagoPaypalStrategy.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\PagoPaypalStrategy.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\Strategy\\PagoPaypalStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:05:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPagoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\IPagoStrategy.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\Strategy\\IPagoStrategy.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Strategy\\IPagoStrategy.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\Strategy\\IPagoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:05:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PagoExternoAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Adapter\\PagoExternoAdapter.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\Adapter\\PagoExternoAdapter.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Adapter\\PagoExternoAdapter.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\Adapter\\PagoExternoAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:08:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServicioPagoExterno.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Adapter\\ServicioPagoExterno.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\Adapter\\ServicioPagoExterno.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\Adapter\\ServicioPagoExterno.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\Adapter\\ServicioPagoExterno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:08:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PagoTarjetaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoTarjetaFactory.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoTarjetaFactory.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoTarjetaFactory.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoTarjetaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:07:27.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagoPaypalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoPaypalFactory.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoPaypalFactory.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoPaypalFactory.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\PagoPaypalFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:07:04.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EntregadoEstado.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EntregadoEstado.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\Bridge\\EntregadoEstado.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EntregadoEstado.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\Bridge\\EntregadoEstado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:56:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EnviadoEstado.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EnviadoEstado.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\Bridge\\EnviadoEstado.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EnviadoEstado.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\Bridge\\EnviadoEstado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:55:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\IEnvio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\Bridge\\IEnvio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\IEnvio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\Bridge\\IEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:56:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IEstadoEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\IEstadoEnvio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\Bridge\\IEstadoEnvio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\IEstadoEnvio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\Bridge\\IEstadoEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:55:23.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DireccionEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\DireccionEnvio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\DireccionEnvio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\DireccionEnvio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\DireccionEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:03:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\EnvioService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\EnvioService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\EnvioService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\EnvioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:58:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Inventario\\InventarioService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Inventario\\InventarioService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Inventario\\InventarioService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Inventario\\InventarioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:11:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NotificacionService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\NotificacionService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Notificaciones\\NotificacionService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\NotificacionService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Notificaciones\\NotificacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:13:59.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductoInventario.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Inventario\\ProductoInventario.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Inventario\\ProductoInventario.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Inventario\\ProductoInventario.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Inventario\\ProductoInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:51:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UsuarioObserver.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\UsuarioObserver.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Notificaciones\\Observer\\UsuarioObserver.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\UsuarioObserver.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Notificaciones\\Observer\\UsuarioObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:10:14.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Notificaciones\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\IObserver.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Notificaciones\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:09:46.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\Notificador.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Notificaciones\\Observer\\Notificador.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Notificaciones\\Observer\\Notificador.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Notificaciones\\Observer\\Notificador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:12:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IPagoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\IPagoFactory.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\IPagoFactory.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\AbstractFactory\\IPagoFactory.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\AbstractFactory\\IPagoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:06:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\Usuario.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Usuarios\\Usuario.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\Usuario.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Usuarios\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:54:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\Cliente.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Usuarios\\Cliente.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Usuarios\\Cliente.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Usuarios\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:57:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Ticket.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Ticket\\Ticket.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Ticket\\Ticket.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Ticket\\Ticket.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:12:55.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PagoService.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\PagoService.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Pagos\\PagoService.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Pagos\\PagoService.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Pagos\\PagoService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:09:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CarritoInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\CarritoInvoker.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Carrito\\Command\\CarritoInvoker.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Carrito\\Command\\CarritoInvoker.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Carrito\\Command\\CarritoInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:31:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EnvioDomicilio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EnvioDomicilio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Envio\\Bridge\\EnvioDomicilio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Envio\\Bridge\\EnvioDomicilio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Envio\\Bridge\\EnvioDomicilio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:57:32.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "usuarios.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\usuarios.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\DataBase\\usuarios.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\usuarios.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\DataBase\\usuarios.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T17:57:06.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "productos.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\productos.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\DataBase\\productos.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\productos.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\DataBase\\productos.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T07:33:53.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "pedidos.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\pedidos.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\DataBase\\pedidos.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\pedidos.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\DataBase\\pedidos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T13:15:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "envios.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\envios.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\DataBase\\envios.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\DataBase\\envios.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\DataBase\\envios.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T14:46:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Data\\RepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioUsuarios.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Data\\RepositorioUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:16:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioProductos.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Data\\RepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioProductos.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Data\\RepositorioProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:17:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RepositorioPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioPedidos.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Data\\RepositorioPedidos.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioPedidos.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Data\\RepositorioPedidos.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:17:40.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RepositorioEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioEnvio.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Data\\RepositorioEnvio.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Data\\RepositorioEnvio.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Data\\RepositorioEnvio.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:44:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Validador.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Utilidades\\Validador.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Core\\Utilidades\\Validador.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Utilidades\\Validador.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Core\\Utilidades\\Validador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:50:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\IAcceso.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Core\\Seguridad\\IAcceso.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\IAcceso.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Core\\Seguridad\\IAcceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:52:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AuthSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\AuthSingleton.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Core\\Seguridad\\AuthSingleton.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\AuthSingleton.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Core\\Seguridad\\AuthSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:51:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccesoProxy.cs",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\AccesoProxy.cs",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\Core\\Seguridad\\AccesoProxy.cs",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\Core\\Seguridad\\AccesoProxy.cs",
+              "RelativeToolTip": "CafeteriaEcommerce\\Core\\Seguridad\\AccesoProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:53:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "pedidos.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\pedidos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T14:56:11.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "usuarios.json",
+              "DocumentMoniker": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json",
+              "RelativeDocumentMoniker": "CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json",
+              "ToolTip": "C:\\Users\\CRjos\\source\\repos\\CafeteriaEcommerce\\CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json",
+              "RelativeToolTip": "CafeteriaEcommerce\\bin\\Debug\\net8.0\\DataBase\\usuarios.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T15:22:32.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYVAAAAAAAAAAAkwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-01T18:41:47.827Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

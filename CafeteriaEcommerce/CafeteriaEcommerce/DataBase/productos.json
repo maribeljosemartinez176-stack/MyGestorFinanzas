@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Cafe en grano 250g",
+    "Precio": 100,
+    "Stock": 10,
+    "Tipo": "grano",
+    "Tamaño": "250g"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Cafe en grano 500g",
+    "Precio": 180,
+    "Stock": 10,
+    "Tipo": "grano",
+    "Tamaño": "500g"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Cafe en grano 920g",
+    "Precio": 320,
+    "Stock": 10,
+    "Tipo": "grano",
+    "Tamaño": "920g"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Cafe en polvo 250g",
+    "Precio": 100,
+    "Stock": 10,
+    "Tipo": "polvo",
+    "Tamaño": "250g"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Cafe en polvo 500g",
+    "Precio": 180,
+    "Stock": 10,
+    "Tipo": "polvo",
+    "Tamaño": "500g"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Cafe en polvo 920g",
+    "Precio": 320,
+    "Stock": 10,
+    "Tipo": "polvo",
+    "Tamaño": "920g"
+  }
+]

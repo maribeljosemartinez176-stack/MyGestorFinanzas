@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Cafe en grano 250g",
+    "Precio": 100,
+    "Stock": 6,
+    "Tipo": "grano",
+    "Tama\u00F1o": "250g"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Cafe en grano 500g",
+    "Precio": 180,
+    "Stock": 5,
+    "Tipo": "grano",
+    "Tama\u00F1o": "500g"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Cafe en grano 920g",
+    "Precio": 320,
+    "Stock": 9,
+    "Tipo": "grano",
+    "Tama\u00F1o": "920g"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Cafe en polvo 250g",
+    "Precio": 100,
+    "Stock": 5,
+    "Tipo": "polvo",
+    "Tama\u00F1o": "250g"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Cafe en polvo 500g",
+    "Precio": 180,
+    "Stock": 7,
+    "Tipo": "polvo",
+    "Tama\u00F1o": "500g"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Cafe en polvo 920g",
+    "Precio": 320,
+    "Stock": 9,
+    "Tipo": "polvo",
+    "Tama\u00F1o": "920g"
+  }
+]

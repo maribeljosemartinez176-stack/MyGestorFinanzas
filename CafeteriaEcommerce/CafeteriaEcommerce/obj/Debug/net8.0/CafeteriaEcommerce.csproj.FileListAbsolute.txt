@@ -1,0 +1,14 @@
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.AssemblyInfoInputs.cache
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.AssemblyInfo.cs
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\bin\Debug\net8.0\CafeteriaEcommerce.exe
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\bin\Debug\net8.0\CafeteriaEcommerce.deps.json
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\bin\Debug\net8.0\CafeteriaEcommerce.runtimeconfig.json
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\bin\Debug\net8.0\CafeteriaEcommerce.dll
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\bin\Debug\net8.0\CafeteriaEcommerce.pdb
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.dll
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\refint\CafeteriaEcommerce.dll
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.pdb
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\CafeteriaEcommerce.genruntimeconfig.cache
+C:\Users\CRjos\source\repos\CafeteriaEcommerce\CafeteriaEcommerce\obj\Debug\net8.0\ref\CafeteriaEcommerce.dll

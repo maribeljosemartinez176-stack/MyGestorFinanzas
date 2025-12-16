@@ -1,0 +1,39 @@
+[
+  {
+    "Nombre": "francisco",
+    "Username": "car",
+    "Password": "1234567890"
+  },
+  {
+    "Nombre": "Francisco",
+    "Username": "francisco",
+    "Password": "1234567890"
+  },
+  {
+    "Nombre": "maribel",
+    "Username": "mari",
+    "Password": "maribeljose124"
+  },
+  {
+    "Nombre": "Carmen",
+    "Username": "Carmen",
+    "Password": "itvo2025itvo"
+  },
+  {
+    "Nombre": "fran",
+    "Username": "fran",
+    "Password": "1234567890"
+  },
+  {
+    "Nombre": "marisol",
+    "Username": "maty",
+    "Password": "0987654321"
+  },
+
+  {
+    "Nombre": "Administrador",
+    "Username": "admin",
+    "Password": "adminpass",
+    "Rol": "Admin"
+  }
+]
